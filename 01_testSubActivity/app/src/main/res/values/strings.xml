@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test12</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter Text!</string>
+    <string name="button_send">Open SubActivity</string>
+    <string name="button_return">Close SubActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testlistActivityMVC</string>
+    <string name="hello_world">List Points</string>
+    <string name="edit_message">Enter Point Name</string>
+    <string name="button_send">Change Point Name</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
